@@ -64,3 +64,19 @@ print(primeiro)
 lista = ['do', 'mi', 'fa', 'sol', 'la']
 lista.insert(1, 're')
 lista.insert(7, 'Si')
+print(lista)
+lista.remove('do')
+print(lista)
+lista.clear()
+print(lista)
+
+# As funções "sort""reverse" ordenam e invertem valores.
+# A função "len" informa tamanho da lista
+lista = [15,23,12,5,9,2,11]
+lista.sort()
+print(lista)
+lista.reverse()
+print(lista)
+print(len(lista))
+
+# PAREI NA PAGINA 6
