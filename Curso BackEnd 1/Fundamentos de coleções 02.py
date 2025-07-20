@@ -12,6 +12,14 @@ print(lista[0])
 print(lista[1])
 print(lista[2])
 
+'''
+                        -----------------------------
+    CONTEUDO DA LISTA   | Maria | 23 | Porto Alegre |
+                        -----------------------------
+    ÍNDICE DA LISTA     |   0   | 1  |      2       |
+                        -----------------------------
+'''
+
 # Elementos sendo acessados individualmente
 n = lista.index('Porto Alegre')
 print(n)
